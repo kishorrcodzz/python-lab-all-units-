@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+print("Welcome to Python Programming")
+print("This is my first Python program")
+print("Hello", name)
+print("Python programming is easy to learn")

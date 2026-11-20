@@ -1,0 +1,22 @@
+[
+    {
+        "level": "INFO",
+        "message": "Program started"
+    },
+    {
+        "level": "ERROR",
+        "message": "File not found"
+    },
+    {
+        "level": "WARNING",
+        "message": "Low memory"
+    },
+    {
+        "level": "ERROR",
+        "message": "Connection failed"
+    },
+    {
+        "level": "INFO",
+        "message": "Program completed"
+    }
+]
